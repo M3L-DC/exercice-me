@@ -45,6 +45,7 @@ At least, you have to provide an API (no need for authentication) to retrieve:
 - Storybook deployed on Github page
 - List of your github repositories somewhere
 - List of your design work hosted somewhere (equivalent of Github for developpers)
+- List of your epics and story within repo
 
 ## What are we waiting for
 
