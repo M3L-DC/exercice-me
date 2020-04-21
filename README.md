@@ -52,3 +52,4 @@ At least, you have to provide an API (no need for authentication) to retrieve:
 - At least 80% of code coverage
 - No warning within console when running app
 - A functionnal storybook
+- A konami code within app to show who is part of your group
